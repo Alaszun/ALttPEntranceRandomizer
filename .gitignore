@@ -7,3 +7,4 @@ build
 bundle/components.wxs
 *.wixobj
 README.html
+.vs/
